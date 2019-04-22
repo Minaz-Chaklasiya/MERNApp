@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://dbShopping:dbShopping@cluster0-7mplf.mongodb.net/test?retryWrites=true",
+    "jwtSecret":"sl_myJWTSecret"
+}
